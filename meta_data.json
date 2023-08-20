@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "compliance",
+        "2": "media",
+        "3": "productivity",
+        "4": "technical"
+    },
+    "demo_page": "https://plugin-api.bubbleapps.io/version-test/profit_co",
+    "description": "Documentation on: https://www.postman.com/profitokrs/workspace/profit-co-s-public-workspace/request/12918716-dc31a238-7e57-441d-a134-b7ef8edd06d1\n\nStrategy defines where you want to go. Execution takes you there\n\n\nActions:\n- Get All OKRs\n- Get All Employees\n- Get ALl Departments\n\n(not official)\n\nIf you feel there is something missing feel free to shoot an email to clasicwebtools[@]gmail.com",
+    "image": "//s3.amazonaws.com/appforest_uf/f1668998886049x762947233876565000/unnamed%20%283%29.png",
+    "license": "open_source",
+    "link": "https://bubble.io/page?type=page&name=profit_co&id=plugin-api&test_plugin=1668998202796x562790007266607100_current&tab=tabs-1",
+    "name": "Profit.co API",
+    "plugin_instructions": "1 - Install the plugin into your app\n2 - Create your Adalo APP and get API keys at https://app.profit.co/app/ng/profit.jsp#/pr/settings/security/api-access\n3 - add your api key and start using the actions from the plugin"
+}
